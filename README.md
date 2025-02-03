@@ -12,11 +12,11 @@ This is a simple Spotify clone built using only HTML and CSS. The project aims t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnjaliGupta29/spotify-clone.git
+   git clone https://github.com/AnjaliGupta29/Spotify-Clone.git 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd spotify-clone
+   cd Spotify-Clone
    ```
 3. Open `index.html` in your browser.
 
@@ -25,9 +25,7 @@ This is a simple Spotify clone built using only HTML and CSS. The project aims t
 spotify-clone/
 │── assets/
 │   ├── images/
-│   ├── fonts/
-│── styles/
-│   ├── style.css
+│── style.css
 │── index.html
 │── README.md
 ```
