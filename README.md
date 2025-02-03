@@ -1,2 +1,45 @@
-# Spotify-Clone
-If you want to create a Spotify clone with only frontend development, you can focus on building the user interface and user experience without handling server-side logic or database interactions. However, please note that you won't be able to create a fully functional music streaming application without a backend to handle data storage, authentication, and API calls to services like Spotify.
+# Spotify Clone (HTML & CSS Only)
+
+## Overview
+This is a simple Spotify clone built using only HTML and CSS. The project aims to replicate the basic UI of Spotify without any backend functionality.
+
+## Features
+- 🎵 Responsive UI similar to Spotify
+- 🎨 Styled using CSS for an elegant look
+- 📌 Basic layout for homepage, sidebar, and music player
+- 🔥 Hover effects and animations
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnjaliGupta29/spotify-clone.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd spotify-clone
+   ```
+3. Open `index.html` in your browser.
+
+## Project Structure
+```
+spotify-clone/
+│── assets/
+│   ├── images/
+│   ├── fonts/
+│── styles/
+│   ├── style.css
+│── index.html
+│── README.md
+```
+
+## Known Issues
+- 🎵 Music playback is not functional (HTML & CSS only)
+- 📱 Some responsiveness issues on smaller screens
+- 🔄 Minor alignment bugs in the sidebar
+
+## Contributing
+Feel free to contribute by improving the design or fixing alignment issues. Fork the repository and submit a pull request!
+
+Enjoy coding! 🚀
+
+
